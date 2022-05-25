@@ -1,7 +1,7 @@
 
 <!--
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
   (I believe in Synergy)
@@ -17,7 +17,7 @@
 Hi 👋 I am Arman
 =====================
 
-Blockchain Specialist & Junior Blockchain Developer
+Senior Blockchain Specialist & Junior Blockchain Developer
 ---------------------------
 
 I have been programming in the field of blockchain for about 2 years. I started with Python and now I work with Rust and I love searching. Polkadot fan
@@ -41,7 +41,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arman-riazi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arman-riazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
 
 ### Badges
 
