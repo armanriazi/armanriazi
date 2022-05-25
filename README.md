@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,30 +13,28 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Arman
+Hi 👋 I am Arman
 =====================
 
-Junior Blockchain Developer
+Blockchain Specialist & Junior Blockchain Developer
 ---------------------------
 
 I have been programming in the field of blockchain for about 2 years. I started with Python and now I work with Rust and I love searching. Polkadot fan
 
-* 🌍  I'm based in Iran
+* 🌍  I live in Earth when it created 4M years ago!
 * ✉️  You can contact me at [armanriazi.blockchain@gmail.com](mailto:armanriazi.blockchain@gmail.com)
-* 🧠  I'm learning Rust, Substrate,Anchor
+* 🧠  I'm learning Rust, Substrate, Polkadot ecosystem
 
-<a href="https://www.github.com/mtdamir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mtdamir?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
+src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 ### Skills
 
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kusama-colored.svg" width="36" height="36" alt="Kusama" /></a>
+<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polkadot-colored.svg" width="36" height="36" alt="Polkadot" /></a>
 </p>
 
 
