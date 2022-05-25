@@ -3,16 +3,8 @@
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
-  (I believe in Synergy)
-- 🌱 I’m currently learning Substrate
-- 👯 I’m looking to collaborate on Substrate and Rust-lang
-- 🤔 I’m looking for help with developing Blockchain
 - 💬 Ask me about [About](https://armanriazi.github.io/site/about/)
 - 📫 How to reach me: [All of things you need to know](https://armanriazi.github.io/site)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Fun](https://armanriazi.github.io/site/fun/)
-
 
 Hi 👋 I am Arman
 =====================
@@ -50,6 +42,16 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 <a
                       href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a><a
                       href="http://www.github.com/armanriazi"><img src="https://activity-graph.herokuapp.com/graph?username=armanriazi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/armanriazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanriazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### About Me
+
+- 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
+  (I believe in Synergy)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [Fun](https://armanriazi.github.io/site/fun/)
+- 🌱 I’m currently learning Substrate
+- 👯 I’m looking to collaborate on Substrate and Rust-lang
+- 🤔 I’m looking for help with developing Blockchain
 
 ### Support Me
 <a href="https://armanriyazi.github.io/">MetaMask(MultiNet): 0xde5D732a5AB44832E1c69b18be30834639F44A2c</a>
