@@ -3,15 +3,16 @@
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
+  (I believe in Synergy)
+- 🌱 I’m currently learning Substrate
+- 👯 I’m looking to collaborate on Substrate and Rust-lang
+- 🤔 I’m looking for help with developing Blockchain
+- 💬 Ask me about [About](https://armanriazi.github.io/site/about/)
+- 📫 How to reach me: [All of things you need to know](https://armanriazi.github.io/site)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [Fun](https://armanriazi.github.io/site/fun/)
+
 
 Hi 👋 I am Arman
 =====================
@@ -25,8 +26,8 @@ I have been programming in the field of blockchain for about 2 years. I started 
 * ✉️  You can contact me at [armanriazi.blockchain@gmail.com](mailto:armanriazi.blockchain@gmail.com)
 * 🧠  I'm learning Rust, Substrate, Polkadot ecosystem
 
-<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
-src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+<!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
+src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>-->
 
 ### Skills
 
