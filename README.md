@@ -32,21 +32,24 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 ### Skills
 
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kusama-colored.svg" width="36" height="36" alt="Kusama" /></a>
-<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polkadot-colored.svg" width="36" height="36" alt="Polkadot" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
+<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mtdamir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amir-motavas-886965207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/mtdamir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amir-motavas-886965207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a>
+<a
+                      href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a><a
+                      href="http://www.github.com/armanriazi"><img src="https://activity-graph.herokuapp.com/graph?username=armanriazi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/armanriazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanriazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/armanriazi"><img src="https://activity-graph.herokuapp.com/graph?username=armanriazi&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Support Me
+<a href="https://armanriyazi.github.io/">MetaMask(MultiNet): 0xde5D732a5AB44832E1c69b18be30834639F44A2c</a>
