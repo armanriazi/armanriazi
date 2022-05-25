@@ -32,8 +32,8 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 ### Skills
 
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2089/2089411.png" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
 <a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>
 </p>
@@ -41,7 +41,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mtdamir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amir-motavas-886965207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arman-riazi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/armanriazi/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
