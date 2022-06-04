@@ -15,7 +15,7 @@ Senior Blockchain Specialist & Junior Blockchain Developer
 I have been programming in the field of blockchain for about 2 years. I started with Python and now I work with Rust and I love searching. Polkadot fan
 
 * 🌍  I live in Earth when it created 4M years ago!
-* ✉️  You can contact me at [armanriazi.blockchain@gmail.com](mailto:armanriazi.blockchain@gmail.com)
+* ✉️  You can contact me at [armanriyazi.github.io@gmail.com](mailto:armanriyazi.github.io@gmail.com)
 * 🧠  I'm learning Rust, Substrate, Polkadot ecosystem
 
 <!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
