@@ -48,7 +48,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 - 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
   (I believe in Synergy)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Fun](https://armanriazi.github.io/site/fun/)
+- ⚡ Fun fact: [Click](https://armanriazi.github.io/site/fun/)
 - 🌱 I’m currently learning Substrate
 - 👯 I’m looking to collaborate on Substrate and Rust-lang
 - 🤔 I’m looking for help with developing Blockchain
