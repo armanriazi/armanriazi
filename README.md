@@ -53,7 +53,5 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 - 👯 I’m looking to collaborate on Substrate and Rust-lang
 - 🤔 I’m looking for help with developing Blockchain
 
-<p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arman-riazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
-
 ### Support Me
 <a href="https://armanriyazi.github.io/">MetaMask(MultiNet): 0xde5D732a5AB44832E1c69b18be30834639F44A2c</a>
