@@ -1,12 +1,12 @@
 # How to Contribute
 
-Contributions are always welcome! Please use the following guidelines when contributing to `minesweeper`
+Contributions are always welcome! Please use the following guidelines when contributing to `repo name`
 
-1. Fork `minesweeper`
-2. Clone your fork (`git clone https://github.com/$YOUR_USERNAME/minesweeper-rs && cd minesweeper-rs`)
+1. Fork `repo name`
+2. Clone your fork (`git clone https://github.com/armanriazi/repo name && cd repo name`)
 3. Create new branch (`git checkout -b new-branch`)
 4. Make your changes, and commit (`git commit -am "your message"`)
- * I use a [conventional](https://github.com/ajoslin/conventional-changelog/blob/a5505865ff3dd710cf757f50530e73ef0ca641da/conventions/angular.md) changelog format so I can update my changelog using [clog](https://github.com/thoughtram/clog)
+ * I use a [conventional](https://github.com/armanriazi/conventional-changelog/blob/a5505865ff3dd710cf757f50530e73ef0ca641da/conventions/angular.md) changelog format so I can update my changelog using [clog](https://github.com/armanriazi/clog)
  * In addition to the conventions defined above, I also use `imp`, `wip`, `gr`.
  * Format your commit subject line using the following format: `TYPE(COMPONENT): MESSAGE` where `TYPE` is one of the following:
     - `feat` - A new feature
