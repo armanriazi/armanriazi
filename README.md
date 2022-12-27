@@ -9,7 +9,7 @@
 Hi 👋 I am Arman
 =====================
 
-Senior Blockchain Specialist & Junior Blockchain Developer
+Blockchain & Web Developer - Devops
 ---------------------------
 
 I have been programming in the field of blockchain for about 2 years. I started with Python and now I work with Rust and I love searching. Polkadot fan
