@@ -30,7 +30,6 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 <a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arman-riazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
