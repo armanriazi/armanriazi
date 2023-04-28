@@ -3,8 +3,8 @@
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Ask me about [About](https://armanriazi.github.io/site/about/)
-- 📫 How to reach me: [All of things you need to know](https://armanriazi.github.io/site)
+- 💬 Ask me about [About](https://armanriazi.github.io/about/)
+- 📫 How to reach me: [All of things you need to know](https://armanriazi.github.io)
 
 Hi 👋 I am Arman
 ======================
