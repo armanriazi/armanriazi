@@ -9,7 +9,7 @@
 Hi 👋 I am Arman
 ======================
 
-Blockchain & Web Developer - Devops
+**Blockchain Developer** & (Web Developer, Devops)
 ---------------------------
 
 I have been programming in the field of blockchain for about 3Y with 12Y Web 2.0. I started with .Net Framework/Core and for now, I am working on Rust-Lang due to love to DLT & Blockchain programming.
