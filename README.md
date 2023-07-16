@@ -21,6 +21,12 @@ I have been programming in the field of blockchain for about 3Y with 12Y Web 2.0
 <!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
 src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>-->
 
+- **Activities of the account was hidden but you gain access to the pinned repositories**
+  
+<p align="center">
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.JPG" alt="Pinned" /></a>
+</p>
+
 ### Skills
 
 <p align="left">
