@@ -24,7 +24,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 - **Activities of the account was hidden but you gain access to the pinned repositories**
   
 <p align="center">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.JPG" alt="Pinned" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/gitpinned.JPG" alt="Pinned" /></a>
 </p>
 
 ### Skills
