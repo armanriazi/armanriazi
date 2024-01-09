@@ -9,12 +9,12 @@
 Hi 👋 I am Arman
 ======================
 
-**Blockchain Developer** & (Web Developer, Devops)
+**Backend Developer** & (Web, Blockchain)
 ---------------------------
 
-I have been programming in the field of blockchain for about 3Y with 12Y Web 2.0. I started with .Net Framework/Core and for now, I am working on Rust-Lang due to love to DLT & Blockchain programming.
+I have been programming in the field of blockchain for about 3Y with 12Y Web 2.0. I started with .Net Framework/Core. Since 2020 I have been working on TS, Rust-Lang due to my interest in the DeSci & Blockchain programming.
 
-* 🌍  I live in Earth when it created 4M years ago!
+* 🌍  I lived on Earth when it was created 4M years ago!
 * ✉️  You can contact me at [armanriyazi.github.io@gmail.com](mailto:armanriyazi.github.io@gmail.com)
 * 🧠  I'm learning & teaching such as Rust, Substrate, ecosystem
 
@@ -53,9 +53,9 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
   (I believe in Synergy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: [Click](https://armanriazi.github.io/)
-- 🌱 I’m currently implementing web 3.0 with Rust programming
+- 🌱 I’m currently implementing Web 3.0 with Rust programming
 - 👯 I’m looking to collaborate on Substrate and Rust-lang
-- 🤔 I’m looking for help with developing Blockchain
+- 🤔 I’m looking for help with developing microservice via NestJS
 
 ### Socials
 
