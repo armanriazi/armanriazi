@@ -28,7 +28,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 </p>
 
 <p align="center">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" alt="Achivements" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="100px" width="100px" alt="Achivements" /></a>
 </p>
 
 ### Skills
