@@ -24,11 +24,11 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 - **Activities of the account were hidden but you can gain access to the pinned repositories**
   
 <p align="center">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.png" alt="Pinned" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.png" height="400px" width="600px" alt="Pinned" /></a>
 </p>
 
 <p align="center">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="100px" width="100px" alt="Achivements" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="300px" width="200px" alt="Achivements" /></a>
 </p>
 
 ### Skills
