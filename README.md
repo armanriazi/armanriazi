@@ -9,14 +9,18 @@
 Hi 👋 I am Arman
 ======================
 
-**Backend Developer** & (Web, Blockchain)
+**IT MAN*
 ---------------------------
 
-I have been programming in the field of blockchain for about 3Y with 12Y Web 2.0. I started with .Net Framework/Core. Since 2020 I have been working on TS, Rust-Lang due to my interest in the DeSci & Blockchain programming.
+I began programming in a non-graphical environment using Basic when I was 17 years old. Prior to that, I had worked with FrontPage when my older brother purchased a Pentium 2 that ran Windows NT.
+
+* **Backend Web Developer** with 15 years of experience in backend development. I have proven expertise in ERP, CRM, CMS, and e-commerce platforms and am adept at microservices architecture and cloud-native solutions. I am recognized for optimizing system efficiency and delivering customer-centric solutions. I excel in both remote and on-site collaborative environments.
+
+* **Results-driven Cybersecurity Professional** with over 5 years of comprehensive experience in both defensive and offensive security measures. I am particularly skilled in enhancing application defenses and deploying secure architectures. I have a proven track record of implementing best practices that strengthen cybersecurity protocols across various environments, including on-premises infrastructures and cloud-based systems. My expertise enables organizations to proactively address vulnerabilities and effectively safeguard their digital assets.
 
 * 🌍  I lived on Earth when it was created 4M years ago!
 * ✉️  You can contact me at [armanriyazi.github.io@gmail.com](mailto:armanriyazi.github.io@gmail.com)
-* 🧠  I'm learning & teaching such as Rust, Substrate, ecosystem
+* 🧠  I've been learning & teaching such as Rust programming and Cybersecurity.
 
 <!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
 src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>-->
@@ -38,7 +42,7 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 </p>
 
 
-### My GitHub Stats
+### Status of the GitHub Page 
 
 <a href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a><a href="https://github.com/armanriazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanriazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=gruvbox" alt="Top Languages" /></a>
 
@@ -46,26 +50,27 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 -->
 
 
-
-
 ### About Me
 
-- 🔭 I’m currently working as a remote. I’m currently engaged in my expanding and growth skills with some and it will be profitable for companies. 
+- 🔭 I’m currently working as a remote. I’m currently engaged in expanding and growth skills with some and it will be profitable for companies. 
   (I believe in Synergy)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Click](https://armanriazi.github.io/)
-- 🌱 I’m currently implementing Web 3.0 with Rust programming
-- 👯 I’m looking to collaborate on Substrate and Rust-lang
-- 🤔 I’m looking for help with developing microservice via NestJS
+- ⚡ Website: [Click](https://armanriazi.github.io/)
+- 👯 My hobbies are listening to piano, playing football, and read IT magazines.
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/armanriazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
 
 ### Support Me
+
+**Before click on please contact me**
+
 <a href="https://armanriyazi.github.io/">MetaMask(MultiNet): 0xde5D732a5AB44832E1c69b18be30834639F44A2c</a>
 
 #### Sponsoring
+
+**Before click on please contact me**
 
 [![github](https://img.shields.io/badge/-GitHub%20Sponsors-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/armanriazi)
 
