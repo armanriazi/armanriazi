@@ -37,7 +37,9 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" /></a>  
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/15379/15379746.png" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="https://attack.mitre.org/theme/images/mitre_attack_logo.png" width="36" height="36" alt="MITRE ATTACK" /></a>
+<a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5ab952d7506fbeaa1f512f11/1586076420678-9G5MBZOQJLH0WXKP42V3/5bfdce88cd3820f7c5c21e02_mitre.png" width="36" height="36" alt="Ethical Hacking" /></a>
+<a href="https://www.ecota.io" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg/v1/fill/w_1899,h_1002,al_c,q_85,usm_1.20_1.00_0.01,enc_avif,quality_auto/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg" width="36" height="36" alt="NodeJS" /></a>
+
 <!--<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2089/2089411.png" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>-->
