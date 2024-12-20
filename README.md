@@ -27,10 +27,10 @@ I started programming in a non-graphical environment using Basic at the age of 1
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="300px" width="200px" alt="Achievements" />
+    <img src="https://github.com/armanriazi/armanriazi/blob/main/achivements-1.png" height="300px" width="200px" alt="Achievements" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.png" height="250px" width="650px" alt="Pinned" />
+    <img src="https://github.com/armanriazi/armanriazi/blob/main/pinned-1.png" height="250px" width="650px" alt="Pinned" />
   </a>
 </p>
 
