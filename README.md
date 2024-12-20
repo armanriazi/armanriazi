@@ -1,87 +1,74 @@
-
 <!--
 **armanriazi/armanriazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Ask me about [About](https://armanriazi.github.io/about/)
-- 📫 How to reach me: [All of things you need to know](https://armanriazi.github.io)
+- 💬 Ask me about [My Journey](https://armanriazi.github.io/about/)
+- 📫 Reach me: [All you need to know](https://armanriazi.github.io)
 
-Hi 👋 I am Arman
-======================
+# Hi 👋 I am Arman
 
-**IT MAN*
----------------------------
+## **IT MAN**
 
-I began programming in a non-graphical environment using Basic when I was 17 years old. Prior to that, I had worked with FrontPage when my older brother purchased a Pentium 2 that ran Windows NT.
+I started programming in a non-graphical environment using Basic at the age of 17. Before that, I began working with FrontPage on a Pentium 2 running Windows NT.
 
-* **Backend Web Developer** with 15 years of experience in backend development. I have proven expertise in ERP, CRM, CMS, and e-commerce platforms and am adept at blockchain, microservices architecture and cloud-native solutions. I am recognized for optimizing system efficiency and delivering customer-centric solutions. I excel in both remote and on-site collaborative environments.
+### Professional Experience
 
-* **Results-driven Cybersecurity Professional** with over 5 years of comprehensive experience in both defensive and offensive security measures. I am particularly skilled in enhancing offensive solutions and deploying secure architectures. I have a proven track record of implementing best practices that strengthen cybersecurity protocols across various environments, including on-premises infrastructures and cloud-based systems. My expertise enables organizations to proactively address vulnerabilities and effectively safeguard their digital assets.
-
-* 🌍  I lived on Earth when it was created 4M years ago!
-* ✉️  You can contact me at [armanriazi.uni@gmail.com](mailto:armanriazi.uni@gmail.com)
-* 🧠  I've been learning & teaching such as Rust programming and Cybersecurity.
-
-<!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
-src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedphoto-shrink_400_400/0/1652597403600?e=1654077600&v=beta&t=RUfkZ9joqysJyf_MXpqad-ghTNKkVabtT9pMNpOk9Gg&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>-->
-
-- **Activities of the account were hidden but you can gain access to the pinned repositories**
+- **Backend Web Developer:** With 15 years of experience, I have expertise in ERP, CRM, CMS, and e-commerce platforms. I am skilled in blockchain, microservices architecture, and cloud-native solutions and am recognized for optimizing system efficiency and delivering customer-centric solutions in both remote and on-site collaborative environments.
   
+- **Cybersecurity Professional:** Over 5 years of comprehensive experience in both defensive and offensive security measures. I excel in enhancing security solutions and deploying secure architectures, with a proven track record of implementing best practices that strengthen cybersecurity protocols across diverse environments, including on-premises and cloud-based systems.
+
+### Fun Facts
+
+- 🌍 I’ve been on Earth since its creation—4 million years ago!
+- ✉️ Contact me at [armanriazi.uni@gmail.com](mailto:armanriazi.uni@gmail.com)
+- 🧠 I’m continually learning and sharing knowledge in Rust programming and Cybersecurity.
+
+**Note:** Activities of this account are hidden, but you can access my pinned repositories.
+
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="300px" width="200px" alt="Achivements" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.png" height="250px" width="650px" alt="Pinned" /></a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/armanriazi/armanriazi/blob/main/achivements.png" height="300px" width="200px" alt="Achievements" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/armanriazi/armanriazi/blob/main/pinned.png" height="250px" width="650px" alt="Pinned" />
+  </a>
 </p>
 
 ### Skills
 
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" /></a>  
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/15379/15379746.png" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5ab952d7506fbeaa1f512f11/1586076420678-9G5MBZOQJLH0WXKP42V3/5bfdce88cd3820f7c5c21e02_mitre.png" width="36" height="36" alt="Ethical Hacking" /></a>
-<a href="https://www.ecota.io/fellow" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg/v1/fill/w_1899,h_1002,al_c,q_85,usm_1.20_1.00_0.01,enc_avif,quality_auto/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg" width="36" height="36" alt="NodeJS" /></a>
-
-<!--<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2089/2089411.png" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>-->
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/15379/15379746.png" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer">
+    <img src="https://images.squarespace-cdn.com/content/v1/5ab952d7506fbeaa1f512f11/1586076420678-9G5MBZOQJLH0WXKP42V3/5bfdce88cd3820f7c5c21e02_mitre.png" width="36" height="36" alt="Ethical Hacking" />
+  </a>
+  <a href="https://www.ecota.io/fellow" target="_blank" rel="noreferrer">
+    <img src="https://static.wixstatic.com/media/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg/v1/fill/w_1899,h_1002,al_c,q_85,usm_1.20_1.00_0.01,enc_avif,quality_auto/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg" width="36" height="36" alt="NodeJS" />
+  </a>
 </p>
-
-<!--
-### Status of the GitHub Page 
-
-<a href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a><a href="https://github.com/armanriazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanriazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=gruvbox" alt="Top Languages" /></a>
--->
-
-<!--<a href="http://www.github.com/armanriazi"><img src="https://activity-graph.herokuapp.com/graph?username=armanriazi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
-
 
 ### About Me
 
-- 🔭 I’m currently working as a remote. I’m currently engaged in expanding and growth skills with some and it will be profitable for companies. 
-  (I believe in Synergy)
+- 🔭 I am currently working remotely and focusing on skill expansion, which I believe will be beneficial for companies. (I believe in synergy)
 - 😄 Pronouns: He/Him
-- ⚡ Website: [Click](https://armanriazi.github.io/)
-- 👯 My hobbies are listening to piano, playing football, and read IT magazines.
-
-<!--
-### Socials
-
-<p align="left"> <a href="https://www.armanriazi.giot" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> 
-  
-  <a href="https://www.linkedin.com/in/armanriazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
--->
+- ⚡ Website: [Click here](https://armanriazi.github.io/)
+- 👯 My hobbies include listening to piano music, playing football, and reading IT magazines.
 
 ### Support Me
 
-**Before click on please contact me**
+**Please contact me before clicking.**
 
-MetaMask(Multi Network Blockchain Support): 
+**MetaMask (Multi-Network Blockchain Support):**
 
 ```plaintext
 0xde5D732a5AB44832E1c69b18be30834639F44A2c
 ```
 
-#### Sponsoring
+### Sponsorship
 
 **Before click on please contact me**
 
@@ -90,4 +77,6 @@ MetaMask(Multi Network Blockchain Support):
 <a href="https://liberapay.com/armanriazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 <a href='https://ko-fi.com/armanriazi' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
 
