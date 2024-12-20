@@ -17,20 +17,20 @@ I started programming in a non-graphical environment using Basic at the age of 1
   
 - **Cybersecurity Professional:** Over 5 years of comprehensive experience in both defensive and offensive security measures. I excel in enhancing security solutions and deploying secure architectures, with a proven track record of implementing best practices that strengthen cybersecurity protocols across diverse environments, including on-premises and cloud-based systems.
 
-### Fun Facts
+### AboutMe
 
 - 🌍 I’ve been on Earth since its creation—4 million years ago!
 - ✉️ Contact me at [armanriazi.uni@gmail.com](mailto:armanriazi.uni@gmail.com)
-- 🧠 I’m continually learning and sharing knowledge in Rust programming and Cybersecurity.
+- 🧠 I’m continually learning and sharing knowledge in Programming and Cybersecurity.
 
-**Note:** Activities of this account are hidden, but you can access my pinned repositories.
+**Note:** Activities of the account are hidden, but you have access to the pinned repositories.
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/armanriazi/armanriazi/blob/main/achivements-1.png" height="300px" width="200px" alt="Achievements" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/armanriazi/armanriazi/blob/main/pinned-1.png" height="250px" width="650px" alt="Pinned" />
+    <img src="https://github.com/armanriazi/armanriazi/blob/main/pinned-1.png" height="300px" width="700px" alt="Pinned" />
   </a>
 </p>
 
