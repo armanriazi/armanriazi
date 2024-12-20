@@ -14,12 +14,12 @@ Hi 👋 I am Arman
 
 I began programming in a non-graphical environment using Basic when I was 17 years old. Prior to that, I had worked with FrontPage when my older brother purchased a Pentium 2 that ran Windows NT.
 
-* **Backend Web Developer** with 15 years of experience in backend development. I have proven expertise in ERP, CRM, CMS, and e-commerce platforms and am adept at microservices architecture and cloud-native solutions. I am recognized for optimizing system efficiency and delivering customer-centric solutions. I excel in both remote and on-site collaborative environments.
+* **Backend Web Developer** with 15 years of experience in backend development. I have proven expertise in ERP, CRM, CMS, and e-commerce platforms and am adept at blockchain, microservices architecture and cloud-native solutions. I am recognized for optimizing system efficiency and delivering customer-centric solutions. I excel in both remote and on-site collaborative environments.
 
 * **Results-driven Cybersecurity Professional** with over 5 years of comprehensive experience in both defensive and offensive security measures. I am particularly skilled in enhancing application defenses and deploying secure architectures. I have a proven track record of implementing best practices that strengthen cybersecurity protocols across various environments, including on-premises infrastructures and cloud-based systems. My expertise enables organizations to proactively address vulnerabilities and effectively safeguard their digital assets.
 
 * 🌍  I lived on Earth when it was created 4M years ago!
-* ✉️  You can contact me at [armanriyazi.github.io@gmail.com](mailto:armanriyazi.github.io@gmail.com)
+* ✉️  You can contact me at [armanriazi.uni@gmail.com](mailto:armanriazi.uni@gmail.com)
 * 🧠  I've been learning & teaching such as Rust programming and Cybersecurity.
 
 <!--<a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img
@@ -35,16 +35,19 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 ### Skills
 
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.803904374.4208/flat,128x128,075,t.u9.jpg" width="36" height="36" alt="Rust" /></a>  
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/15379/15379746.png" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEUaZ60OYakNYakBWaUAV6UBWKUAU6MAVaRglcVJhb3////5+/3q8feGo8oATqGTrM84froAUaJ/qtGyx9+2zOJzos0ATKDh6/Rahrxhir6qxd8SarDH2us0bq/O3+1rkMG/0+eqv9p2l8Td5e+GrtOcudcjb7FUjMEud7aUuNnW4+8AY6xpmMeYs/hIAAABTklEQVR4AXxQh3aEMAwLYGJQcrmyb+9N///7ana3GImtJzmKUp7v+/L9sigV0J8IlEfhHyDvf9KndqM1D03Wuuv5nZKCKIq9jvPiKCL6pNQxjJ25hnNzY/DGnbIlkxRA1khJ5QCK5JNt2XSqhRaPpQWwcpMtuaaDOcmsOQSVm5S0NhBstszbHQRG0ajUcUtiqXmPlox5VCapweYgo4JgBRx2MGkyKssMOJ5E4HmA2edAVg5RiM/ApZn2FstkdQXOTL0t3yqYOx+F2ADXJDKobtzb6ruFublTm8ee3MPA3nWvTGZSab61KXaKAwszS3qlE8NDGSaywFyTsBTzzPXK4ABcXOsOKwndU6Z7nZIfL6CZkZyBs2TQEfB6cBuFly+DurmLwtp3Sc83mGqvW1sK6rrmUKDrOunXWvrtgUgQtphWGi7hY+SlPryJGm92AACKSRt5BvjorAAAAABJRU5ErkJggg==" width="36" height="36" alt="MITRE ATTACK" /></a>
+<!--<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2089/2089411.png" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://kusama.network/" target="_blank" rel="noreferrer"><img src="https://logos-download.com/wp-content/uploads/2022/01/Kusama_KSM_Logo-700x700.png" width="36" height="36" alt="Kusama" /></a>
-<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>
+<a href="https://polkadot.network/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/7505/7505625.png" width="36" height="36" alt="Polkadot" /></a>-->
 </p>
 
-
+<!--
 ### Status of the GitHub Page 
 
 <a href="http://www.github.com/armanriazi"><img src="https://github-readme-stats.vercel.app/api?username=armanriazi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="armanriazi's GitHub stats" /></a><a href="https://github.com/armanriazi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanriazi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&theme=gruvbox" alt="Top Languages" /></a>
+-->
 
 <!--<a href="http://www.github.com/armanriazi"><img src="https://activity-graph.herokuapp.com/graph?username=armanriazi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
@@ -58,9 +61,13 @@ src="https://media-exp1.licdn.com/dms/image/D4E35AQE8M7sYVqTHWA/profile-framedph
 - ⚡ Website: [Click](https://armanriazi.github.io/)
 - 👯 My hobbies are listening to piano, playing football, and read IT magazines.
 
+<!--
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/armanriazi" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/armanriazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.armanriazi.giot" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="32" height="32" /></a> 
+  
+  <a href="https://www.linkedin.com/in/armanriazi/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" width="32" height="32" /></a></p>
+-->
 
 ### Support Me
 
