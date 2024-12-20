@@ -16,7 +16,7 @@ I began programming in a non-graphical environment using Basic when I was 17 yea
 
 * **Backend Web Developer** with 15 years of experience in backend development. I have proven expertise in ERP, CRM, CMS, and e-commerce platforms and am adept at blockchain, microservices architecture and cloud-native solutions. I am recognized for optimizing system efficiency and delivering customer-centric solutions. I excel in both remote and on-site collaborative environments.
 
-* **Results-driven Cybersecurity Professional** with over 5 years of comprehensive experience in both defensive and offensive security measures. I am particularly skilled in enhancing application defenses and deploying secure architectures. I have a proven track record of implementing best practices that strengthen cybersecurity protocols across various environments, including on-premises infrastructures and cloud-based systems. My expertise enables organizations to proactively address vulnerabilities and effectively safeguard their digital assets.
+* **Results-driven Cybersecurity Professional** with over 5 years of comprehensive experience in both defensive and offensive security measures. I am particularly skilled in enhancing offensive solutions and deploying secure architectures. I have a proven track record of implementing best practices that strengthen cybersecurity protocols across various environments, including on-premises infrastructures and cloud-based systems. My expertise enables organizations to proactively address vulnerabilities and effectively safeguard their digital assets.
 
 * 🌍  I lived on Earth when it was created 4M years ago!
 * ✉️  You can contact me at [armanriazi.uni@gmail.com](mailto:armanriazi.uni@gmail.com)
